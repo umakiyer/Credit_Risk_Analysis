@@ -77,6 +77,10 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
    
    ![image](./IMAGES/RF_classification_report.PNG)
 
+* Created the feature importances, sorted  & plotted as horizontal bar chart.
+
+    ![image](./IMAGES/RF_feature.PNG)
+
 ### EasyEnsembleClassifier:
 
 * The balanced accuracy scores
